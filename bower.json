@@ -1,0 +1,18 @@
+{
+  "name": "webpack-sandbox",
+  "version": "0.0.0",
+  "authors": [
+    "vladikoff <vlad.filippov@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fxa-js-client": "~0.1.23"
+  }
+}
